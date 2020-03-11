@@ -7,15 +7,23 @@ Example :
 $> cat sample.fillit | cat -e
 
 ....$
+
 ##..$
+
 .#..$
+
 .#..$
+
 $
 
 ....$
+
 ####$
+
 ....$
+
 ....$
+
 $
 
 #...$
@@ -32,7 +40,11 @@ $
 $> ./fillit sample.fillit | cat -e
 
 DDAA$
+
 CDDA$
+
 CCCA$
+
 BBBB$
+
 $>
